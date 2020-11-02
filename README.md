@@ -8,7 +8,7 @@ and the __treatment sum of squares__, which was defined as follows:
 
 ![](https://render.githubusercontent.com/render/math?math=SS_T=\sum_{j=1}^t\sum_{i=1}^{n_j}(\overline{X}_j-\overline{X})^2\qquad\textrm{where}\qquad\overline{X}_j=\frac{1}{n_j}\sum_{i=1}^{n_j}X_i\qquad\textrm{and}\qquad\overline{X}=\frac{1}{t}\sum_{j=1}^t\overline{X}_j)
 
-It is also worth introducing the __total corrected sum of squares__ (![](https://render.githubusercontent.com/render/math?math=SS_{TC})) and noting that*:
+It is also worth introducing the __total corrected sum of squares__ (![](https://render.githubusercontent.com/render/math?math=SS_{TC})) and noting that:
 
 ![](https://render.githubusercontent.com/render/math?math=SS_{TC}=\sum_{j=1}^t\sum_{i=1}^{n_j}(X_{ij}-\overline{X})^2=SS_E%2BSS_T)
 
