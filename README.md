@@ -10,7 +10,7 @@ and the __treatment sum of squares__, which was defined as follows:
 
 It is also worth introducing the __total corrected sum of squares__ (![](https://render.githubusercontent.com/render/math?math=SS_{TC})) and noting that*:
 
-![](https://render.githubusercontent.com/render/math?math=SS_{TC}=\sum_{j=1}^t\sum_{i=1}^{n_j} (X_{ij}-\overline{X})^2 = SS_E + SS_T
+![](https://render.githubusercontent.com/render/math?math=SS_{TC}=\sum_{j=1}^t\sum_{i=1}^{n_j} (X_{ij}-\overline{X})^2=SS_E%2BSS_T)
 
 Here ![](https://render.githubusercontent.com/render/math?math=X_{ij}) is the ith data point in the jth sample.  In previous equations, I have referred to this as ![](https://render.githubusercontent.com/render/math?math=X_i) only.  Notice also that there is proof that the total sum of squares is equal to the sum of the treatment sum of squares and the error sum of squares in the lecture notes.  There is also an exercise to take you through this proof on CANVAS. 
 
